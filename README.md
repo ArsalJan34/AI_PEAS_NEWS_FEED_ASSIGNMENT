@@ -5,14 +5,6 @@ This project applies the **PEAS framework** and **Task Environment Analysis** to
 
 ---
 
-## 📋 Contents
-
-| File | Description |
-|------|-------------|
-| `PEAS_News_Feed_Assignment_condensed.pdf` | Condensed 2-page report (PDF) |
-| `PEAS_News_Feed_Assignment_condensed.docx` | Editable Word version |
-
----
 
 ## 🧠 What is the PEAS Framework?
 
