@@ -5,6 +5,7 @@ This project applies the **PEAS framework** and **Task Environment Analysis** to
 
 ---
 
+---
 
 ## 🧠 What is the PEAS Framework?
 
@@ -61,6 +62,15 @@ Over-weighting any single term (e.g., maximizing α) leads to second-order harms
 
 - Russell, S., & Norvig, P. (2020). *Artificial Intelligence: A Modern Approach* (4th ed.). Pearson.
 - Twitter/X and TikTok recommendation system public documentation and research papers.
+
+---
+
+## 👤 Student Info
+
+| | |
+|---|---|
+| **Name** | Arsal Jan Chandio |
+| **Roll No** | 2k23/CSE/34 |
 
 ---
 
